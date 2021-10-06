@@ -7,6 +7,8 @@ List of documents with emotion flag, Dataset is split into train, test & validat
 
 #### Kaggle Dataset link : <a href='https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp'>LINK</a>
 
+#### Kaggle Link : https://www.kaggle.com/akshayamali/sentimental-analysis-and-mood-classification
+
 ### Table Contents:
 
 #### 1. Sentimental Analysis using Vader Lexicon
